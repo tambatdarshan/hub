@@ -54,6 +54,8 @@ default:
   scopes:
     - rating:read
     - rating:write
+  - name: agent:create
+    users: tambatdarshan
 # Template
 # catalogs:
 #   - name: Name of Catalog
